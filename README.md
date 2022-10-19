@@ -7,7 +7,7 @@ https://www.nishika.com/competitions/33/topics/395
 
 ## 学習方法
 
-- `bokete/`ディレクトリにコンペデータを配置する
+- `exp/bokete/`ディレクトリにコンペデータを配置する
 - 以下のようなコマンドで学習を実行する
 
 ```bash
